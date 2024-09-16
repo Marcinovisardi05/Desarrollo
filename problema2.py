@@ -1,4 +1,4 @@
-nombre = str(input("Ingrese su nombre: ")).upper()
+pnombre = str(input("Ingrese su nombre: ")).upper()
 sexo = str(input("Ingrese su sexo: "))
 
 if sexo == "F":
